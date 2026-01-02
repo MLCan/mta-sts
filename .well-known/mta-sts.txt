@@ -1,6 +1,6 @@
 const stsPolicies =
 `version: STSv1
 mode: testing
-mx: mail.protonmail.ch
-mx: mailsec.protonmail.ch
-max_age: 3600
+mx: mx1.simplelogin.co
+mx: mx2.simplelogin.co
+max_age: 86400`
